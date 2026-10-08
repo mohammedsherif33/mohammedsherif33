@@ -1,5 +1,5 @@
 # 💫 About Me:
-I’m currently working on: An ESP32 & Optimizing lightweight AI/ML models using LoRA techniques alongside IoT security architectures. smart agriculture system integrated with ML and IoT security testing.<br>I’m currently learning: Advanced Active Directory exploitation and firmware reverse engineering.<br>Ask me about: Penetration testing, vulnerability assessment, Linux, Python automation, and digital forensics.<br>Fun fact: I can spend hours tweaking config files and scripts just to save two seconds in my workflow.
+I’m currently working on: An ESP32 & Optimizing lightweight AI/ML models using LoRA techniques alongside IoT security architectures. smart agriculture system integrated with ML and IoT security testing.<br>I’m currently learning: Advanced Active Directory exploitation and firmware reverse engineering.<br>Ask me about: Penetration testing, vulnerability assessment, Linux, Python automation, and digital forensics.<br> I can spend hours tweaking config files and scripts just to save two seconds in my workflow.
 
 
 ## 🌐 Socials:
